@@ -105,6 +105,8 @@ PositionTracker  — monitors open legs; alerts if arb breaks mid-execution
 
 Virtual $10,000 bankroll. US books only. Ran for ~117 polls (≈4 hours) before API quota exhausted.
 
+The simulation ran for about four hours before exhausting the 500-credit API quota. One bet resolved with a $0.50 profit, producing a 1.41% ROI and increasing the virtual bankroll from $10,000 to $10,000.50. Three additional arbitrage positions remained open when the simulation stopped, so the reported performance is limited and does not represent a complete portfolio result.
+
 ### Resolved bets
 
 | Match | Result | Staked | Return | Profit |
